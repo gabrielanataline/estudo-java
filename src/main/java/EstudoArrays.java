@@ -60,7 +60,7 @@ public class EstudoArrays {
         //valor padrão tipos primitivos
         int numero; // padrão = 0
         double nota2; // padrão = 0.0
-        long população; // padrão = 0
+        long população; // padrão  = 0
         boolean teste; // padrão = false
 
         // valor padrão não primitivo, classes
