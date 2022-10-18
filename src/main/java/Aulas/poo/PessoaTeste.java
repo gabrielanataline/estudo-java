@@ -34,6 +34,11 @@ public class PessoaTeste {
         pessoa4.comer("batata");
 
 
+        Pessoa pedro = new Pessoa ("Pedro", "Carlos", 28, 1.75, 74);
+        Pessoa joao = new Pessoa("João", "Carlos", 24, 1.67, 67);
+
+
+
 
 
     }
